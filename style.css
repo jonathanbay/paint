@@ -1,0 +1,12 @@
+
+body {
+    cursor: crosshair;
+}
+canvas {
+    border: 1px solid black;
+}
+#reset {
+    margin-top: 10px;
+    margin-left: 5px;
+    float: left;
+}
